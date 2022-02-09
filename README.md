@@ -41,3 +41,21 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 ### Diagrama Nassi-Shneiderman
 ![Diagrama N-S](/images/fibonacciNS.png)
+
+## Ejercicio 3
+
+The prime factors of 13195 are 5, 7, 13 and 29.
+
+What is the largest prime factor of the number 600851475143 ?
+
+## Datos de Entrada
+- 600851475143
+
+## Datos de Salida
+- el mayor factor primo
+
+### Diagrama de Flujo
+![Diagrama de flujo](/images/primoDF.png)
+
+### Diagrama Nassi-Shneiderman
+![Diagrama N-S](/images/primoDNS.png)
